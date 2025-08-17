@@ -3,7 +3,7 @@
 This report uses MS Excel to presents key insights from the "Shopping Trends and Customer Behaviour Dataset". It focuses on purchasing patterns, seasonal trends, the impact of discounts, and payment method preferences. The analysis was performed using pivot tables and various charts to identify actionable findings. The dataset for this analysis can be found at [Download here](https://www.kaggle.com/datasets/sahilislam007/shopping-trends-and-customer-behaviour-dataset).
 
 ### Tools
-- MS Excel [Download here](microsoft.com).
+- MS Excel [Download here](https://microsoft-excel.en.download.it/).
 
 ### Data Cleaning and Preparation
 The original data had an extra column which didn't add any meaning to the data, therefore the following task were performed;
