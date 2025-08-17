@@ -45,7 +45,7 @@ In analyzing the question above, the following purchase patterns were found;
 ### What is the Total Purchase Amount by Category and Season
 <img width="1298" height="433" alt="Purchase by category and season" src="https://github.com/user-attachments/assets/1b0edc3c-95a4-4983-bda4-82b76c7111d4" />
 
-In the above question, it was found that clothing is the dominant sales category, with specific seasonal peaks, while outerwear consistently performs lowest.
+The analysis to the above question, reveals that clothing is the dominant sales category, with specific seasonal peaks, while outerwear consistently performs lowest.
 
 - Clothing emerges as the category with the highest overall purchase amount across all seasons.
 - The peak seasons for Clothing sales are Spring, Winter, and Fall, in that order.
