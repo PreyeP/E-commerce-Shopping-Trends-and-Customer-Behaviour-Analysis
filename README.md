@@ -34,6 +34,7 @@ EDA involved exploring the shopping behaviour of customers and answers key quest
 ### What is the Average Purchase Amount by Category and Gender.
 <img width="939" height="318" alt="purchase by category and gender" src="https://github.com/user-attachments/assets/4327da4f-5045-4088-a24b-d9225669a0b1" />
 In analyzing the question above, the following purchase patterns were found;
+
 - Women tend to have a higher average purchase amount for Accessories.
 - Men, conversely, show a higher average purchase amount for Footwear.
 - Footwear is the only category where men's average purchase amount surpasses that of women.
