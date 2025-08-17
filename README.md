@@ -9,6 +9,7 @@
 - [Recommendations](#recommendations)
 - [Methodology: Dashboard and Visuals Creation Process](#methodology-dashboard-and-visuals-creation-process)
 - [Final Output](#final-output)
+  
 ## Project Description
 This report uses MS Excel to presents key insights from the "Shopping Trends and Customer Behaviour Dataset". It focuses on purchasing patterns, seasonal trends, the impact of discounts, and payment method preferences. The analysis was performed using pivot tables and various charts to identify actionable findings. The dataset for this analysis can be found at [Download here](https://www.kaggle.com/datasets/sahilislam007/shopping-trends-and-customer-behaviour-dataset).
 
@@ -76,6 +77,7 @@ PayPal is the most favored payment method among customers, followed by Cash, wit
 This analysis provides a foundational understanding of customer behavior and shopping trends within the dataset. The insights highlight opportunities for targeted marketing, optimized inventory management, and strategic promotional planning.
 
 ### Recommendations
+Based on the analysis done on the dataset, the following recommendations are advised
 
 - Tailored Marketing: Develop gender-specific campaigns for accessories and footwear.
 - Seasonal Inventory: Prioritize clothing stock for Spring, Winter, and Fall, while re-evaluating strategies for outerwear.
