@@ -33,8 +33,7 @@ EDA involved exploring the shopping behaviour of customers and answers key quest
 
 ### What is the Average Purchase Amount by Category and Gender.
 <img width="939" height="318" alt="purchase by category and gender" src="https://github.com/user-attachments/assets/4327da4f-5045-4088-a24b-d9225669a0b1" />
-There are distinct gender-based preferences in spending across product categories.
-
+In analyzing the question above, the following purchase patterns were found;
 - Women tend to have a higher average purchase amount for Accessories.
 - Men, conversely, show a higher average purchase amount for Footwear.
 - Footwear is the only category where men's average purchase amount surpasses that of women.
@@ -45,7 +44,7 @@ There are distinct gender-based preferences in spending across product categorie
 ### What is the Total Purchase Amount by Category and Season
 <img width="1298" height="433" alt="Purchase by category and season" src="https://github.com/user-attachments/assets/1b0edc3c-95a4-4983-bda4-82b76c7111d4" />
 
-Clothing is the dominant sales category, with specific seasonal peaks, while outerwear consistently performs lowest.
+In the above question, it was found that clothing is the dominant sales category, with specific seasonal peaks, while outerwear consistently performs lowest.
 
 - Clothing emerges as the category with the highest overall purchase amount across all seasons.
 - The peak seasons for Clothing sales are Spring, Winter, and Fall, in that order.
@@ -56,7 +55,7 @@ Clothing is the dominant sales category, with specific seasonal peaks, while out
 ### How does Discount Impact the Purchase Amount
 <img width="829" height="411" alt="Discount applied" src="https://github.com/user-attachments/assets/bf0ad60c-b3ec-488f-81cd-8dfc7f5e15a6" />
 
-The average purchase amount is higher when no discount is applied, suggesting that discounts do not necessarily drive larger individual purchases.
+In analyzing the question above, it was found that the average purchase amount is higher when no discount is applied, suggesting that discounts do not necessarily drive larger individual purchases.
 
 - The analysis revealed that the average purchase price for transactions without a discount applied is higher than for transactions where a discount was utilized.
   
@@ -65,7 +64,7 @@ The average purchase amount is higher when no discount is applied, suggesting th
 ### What is the Frequency of Purchases by Payment Method.
 <img width="876" height="394" alt="Frequency of Purchase by Payment method" src="https://github.com/user-attachments/assets/148b6f32-1b96-4c55-863f-ab9fb9baa37d" />
 
-PayPal is the most favored payment method among customers, followed by Cash, with Bank transfer being the least preferred.
+The analysis reveal that PayPal is the most favored payment method among customers, followed by Cash, with Bank transfer being the least preferred. In short;
 
 - PayPal is the most frequently used payment method.
 - Cash ranks as the second most preferred method.
