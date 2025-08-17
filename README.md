@@ -1,6 +1,6 @@
 # E-commerce-Shopping-Trends-and-Customer-Behaviour-Analysis
 ## Table of Content
-- [project Description](#project-description)
+- [Project Description](#project-description)
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Analysis](#exploratory-analysis)
